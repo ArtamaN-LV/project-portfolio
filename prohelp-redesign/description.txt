@@ -1,0 +1,15 @@
+ProHelp
+
+A mobile first redesign of a local services marketplace where people post small jobs and find professionals to do them. Users can browse jobs by category, open job details, view a professional's profile with reviews, post a new task and chat with other users. The prototype runs on built in sample data and supports light and dark themes and two languages.
+
+Features:
+* Home screen with search, categories and recent jobs
+* Job browsing, job details and apply flow
+* Professional profiles with rating, availability and reviews
+* Task posting form with budget, location and photos
+* Messages list and chat screen
+* Profile and settings with theme, language and notification options
+
+Tech: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui (Radix UI), React Router, TanStack Query, Lucide icons
+
+Developed: 2025-01-01

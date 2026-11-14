@@ -1,0 +1,18 @@
+Nikan.lv
+
+A company website for a Riga based firm that installs and services commercial refrigeration and air conditioning equipment. It presents the company's services, about information and contacts, and has a product catalog with categories, subcategories and product pages. Catalog content and the about page gallery come from a Strapi CMS backend. The site is available in Latvian, English and Russian.
+
+Features:
+* Animated splash screen and hero with key company figures
+* Services overview for refrigeration, air conditioning and maintenance
+* Product catalog with categories, subcategories and product pages loaded from Strapi
+* About page with mission, benefits and a project gallery
+* Contacts page, sitemap and full company requisites in the footer
+* Three languages with locale based URLs and SEO tags
+
+Tech: React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, GSAP, i18next, React Router, Strapi 5 (backend)
+
+Admin panel (Strapi CMS):
+The site content is managed in a Strapi CMS admin panel. It has a content manager for products and categories, a content type builder, a media library, and users and roles. Shots 10 to 16 show this panel.
+
+Developed: 2026-05-04

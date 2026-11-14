@@ -1,0 +1,15 @@
+Dream Drive
+
+A website for a premium taxi service in Riga and Jurmala. Visitors can browse services, look through a photo gallery of the fleet, read reviews and FAQ, and book a ride with an online form that sends the request by email. The site works in English, Latvian and Russian. A built in admin panel lets the owner edit translations, the gallery and contact links, then export the changes as JSON or ZIP.
+
+Features:
+* Service cards for standard rides, VIP, airport transfers, weddings and custom orders
+* Booking form with date, time, route and service selection, sent through EmailJS
+* Photo gallery and customer review carousels
+* Three languages with language based URLs and SEO meta tags
+* Legal page with terms, privacy, cookie and security policies
+* Admin panel with translation editor, table mode, find and replace, gallery manager and contacts editor
+
+Tech: React 19, Vite, React Router, i18next, Swiper, EmailJS, Lenis smooth scroll, react-helmet-async, plain CSS
+
+Developed: 2025-05-28

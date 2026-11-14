@@ -1,0 +1,15 @@
+Gusto Catering
+
+A one page presentation website for a Latvian catering company. It introduces the company, its history and values, and the catering services it offers to schools, kindergartens, organizations and events. Visitors can find contact details, company and bank requisites, and send an inquiry through a contact form. The site is in Latvian.
+
+Features:
+* Hero block with key figures and a company contact card
+* About section with company story, values and certifications
+* Services grid covering school catering, food delivery, cafes, banquets, field trading and pastry
+* Contact form with phone, email, address and working hours
+* Step by step cooperation process and a footer with requisites
+* Animated sections and hover effects
+
+Tech: React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, Lucide icons
+
+Developed: 2025-06-25

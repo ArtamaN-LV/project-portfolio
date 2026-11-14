@@ -1,0 +1,15 @@
+POP MARKET (Funko POP Marketplace)
+
+An online store for Funko Pop collectible figures with a dark storefront. Shoppers browse the catalog by category, filter rare and exclusive figures, keep a wishlist and pay through Stripe Checkout. Admins manage products, orders, categories and customers from their own dashboard.
+
+Features:
+* Catalog with categories, search and filters for grails, exclusives and new releases
+* Product pages with condition, box number, edition and stock status
+* Cart stored in Redis and checkout through Stripe with webhook order fulfillment
+* Customer accounts with order history and a wishlist
+* Admin dashboard with revenue, orders, low stock alerts and product, order, category and customer management
+* Product editor with image upload and flags like Grail, Exclusive, Vaulted and Trending
+
+Tech: Next.js 16 (App Router, server actions), React 19, TypeScript, Tailwind CSS v4, Prisma 7 with PostgreSQL, Redis, Auth.js v5, Stripe, Framer Motion
+
+Developed: 2026-06-01

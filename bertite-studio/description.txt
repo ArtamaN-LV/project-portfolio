@@ -1,0 +1,15 @@
+bertite-studio
+
+Bertite is the marketing website for a small two person digital studio based in Riga, Latvia. The site presents the studio and the kind of work it takes on, from web platforms to automation and AI. It has a home page, an about page, a services page, a work page with sample cases, and a contact page with a form that sends an email.
+
+Features:
+* Home page with hero, capabilities list, and tech stack
+* About page covering the studio, its process, and core values
+* Services page listing the full range of offerings
+* Work page with selected case studies
+* Contact page with a validated message form
+* Contact form backend that sends email, with input validation and rate limiting
+
+Tech: Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Nodemailer, Zod.
+
+Developed: 2026-03-09

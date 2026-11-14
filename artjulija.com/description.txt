@@ -1,0 +1,15 @@
+artjulija.com (JULIART)
+
+A portfolio website for an interior design studio in Riga. Visitors browse a grid of projects, open each project to see its main photo, gallery and credits, and read the studio's About page with contacts. The owner manages all content through a small admin panel.
+
+Features:
+* Project grid on the home page and a page per project with gallery and project navigation
+* About page with address, emails, phones and social links
+* Admin panel to add, edit, reorder and delete projects
+* Image upload with drag and drop, resized with sharp and stored in Cloudflare R2
+* Editable About page content and photos
+* Admin login with session cookies and a limit on failed attempts
+
+Tech: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, Framer Motion, Prisma with PostgreSQL, Cloudflare R2 (S3 API), sharp, jose
+
+Developed: 2026-02-22

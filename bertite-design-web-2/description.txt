@@ -1,0 +1,15 @@
+bertite-design-web-2
+
+This is a single page marketing website for the Bertite design and development studio. Visitors scroll through the whole story on one page, from the headline down to a contact form. It is a static front end with no backend or database.
+
+Features:
+* Hero section with the main headline and calls to action
+* Services section describing automation, web, mobile, and hosting work
+* Tech stack section with the tools and a set of stat highlights
+* Contact section with a project enquiry form and direct contact details
+* Dark theme with scroll based reveal animations
+* Responsive layout that stacks cleanly on mobile
+
+Tech: React, Vite, TypeScript, Tailwind CSS.
+
+Developed: 2025-07-23

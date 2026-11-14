@@ -1,0 +1,15 @@
+Loader
+Desktop app (Windows)
+
+A desktop launcher and store for a software catalog. The left panel splits products into owned and available. Each product page shows a media carousel with a trailer, a status badge, last update date, tiered pricing by duration (day, week, month) and buy buttons for add on options. A Node.js and Prisma backend serves the catalog, product data and uploads.
+
+Features:
+* Product catalog split into owned and available items
+* Product page with media carousel, pricing tiers and add on purchases
+* Status and membership badges per product
+* Account menu and per product changelog
+* Backend with product database, image uploads and admin seeding
+
+Tech: C++ desktop client, Node.js, Prisma, ImGui style UI
+
+Developed: 2026-10-11

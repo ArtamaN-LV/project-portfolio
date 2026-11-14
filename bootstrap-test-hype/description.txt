@@ -1,0 +1,18 @@
+Receiptly (landing page)
+Marketing website
+
+A dark, high contrast landing page for a receipt generator service. It opens with a hero and a license key purchase card, shows animated stat counters, a product dashboard preview, and a catalog of store templates, with a license key login. Built as a single page React app.
+
+Features:
+* Hero with call to action and a license key purchase card
+* Animated statistics counters
+* Product dashboard preview section
+* Store template catalog with search and a full catalog view
+* License key login modal
+* Responsive layout with a mobile version
+
+Tech: React, Vite, Bootstrap
+
+Note: store names and the product preview are masked here, since this is only a portfolio sample of the frontend design.
+
+Developed: 2026-02-14

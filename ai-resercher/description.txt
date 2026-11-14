@@ -1,0 +1,15 @@
+AI Researcher
+Terminal tool (multi-agent)
+
+An autonomous multi-agent system that audits the security of a game server's own network code. It walks every client to server request handler, and every function they call, down the whole tree, and flags handlers that trust the client too much (missing owner, bounds, range or permission checks). It runs many Claude agents in parallel over a shared memory ledger so each function is analyzed once and none are skipped, then writes up each finding with its call trace and pseudocode. Built for hardening the owner's own server, not for exploits.
+
+Features:
+* Multi-agent pipeline with a work queue and a shared function memory ledger
+* Reads native code through IDA and blueprint bytecode through FModel
+* Records every function once, with a status board showing progress per wave
+* Findings stored as folders with name, description, pseudocode and call trace
+* Separate verify and control passes that reopen anything skipped
+
+Tech: Python, Claude Code agents, IDA Pro and FModel through MCP
+
+Developed: 2026-10-12

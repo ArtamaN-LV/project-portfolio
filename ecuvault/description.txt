@@ -1,0 +1,15 @@
+ECUVAULT
+
+An online shop that sells original ECU stock files for car control units. Buyers find a file by picking make, model and engine or by searching hardware and software numbers, pay by card or crypto and download the file right after payment. The site runs in English, Russian and Latvian, and everything from products to site colors is managed in the admin panel.
+
+Features:
+* Vehicle selector and catalog filters by ECU brand, fuel, read method, price and HW/SW number
+* Guest or account checkout with promo codes, VAT, Stripe and NOWPayments
+* Private file storage with limited, short lived download links
+* Support tickets with email notifications and replies from the admin panel
+* Admin panel with dashboard and visitor stats, products, orders, users, vehicles, ECU types, promo codes, media library, CMS with theme colors, settings and audit log
+* Accounts with two factor login, Argon2 passwords and rate limiting
+
+Tech: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, next-intl, Drizzle ORM with PostgreSQL, Redis, Cloudflare R2 (S3), Stripe, NOWPayments, Resend
+
+Developed: 2026-07-25

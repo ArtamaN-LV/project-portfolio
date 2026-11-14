@@ -1,0 +1,17 @@
+AML Compliance Platform (First Version)
+
+This is the FIRST version of the owner's AML and KYC compliance platform, built for the Latvian market. It collects client questionnaires through secure token based public links, runs automated compliance checks, calculates a risk score, and gives compliance officers an admin panel to review each case. It also generates the regulatory Latvian forms (client identification, risk assessment, enhanced due diligence). The platform supports two client types, natural persons and legal entities, in Latvian, Russian and English.
+
+Features:
+* Token based public questionnaires for natural persons and legal entities
+* Automated checks against sanctions lists, PEP databases, adverse media and government registries
+* Configurable risk scoring with a manual analyst override and per finding review
+* Admin dashboard with client list, case detail, compliance checks and audit log
+* Risk assessment form (1.10) and DOCX report generation for Latvian regulatory forms
+* Partner screening, invitation link management and role based access control
+
+Tech: Angular 21 frontend, Node.js and Express backends, Python FastAPI check workers, PostgreSQL, Redis, Docker. Client data is encrypted at rest with RSA and AES.
+
+Note: every name, code, email and finding in these screenshots is fictional demo data created for the portfolio. No real client data is shown. The questionnaire questions, the collected client data, the compliance check details and the risk scoring logic are intentionally blurred to keep the proprietary content and personal data unreadable, while the page layout and structure stay visible.
+
+Developed: 2026-03-31

@@ -1,0 +1,15 @@
+finwise
+
+A personal finance tracker with an AI coach. You log income and expenses, set monthly budgets, savings goals and recurring subscriptions, and the dashboard shows where the money goes. An AI coach reads your recent transactions and suggests next steps for saving and for food and drink spending.
+
+Features:
+* Dashboard with balance, income, expenses, cashflow chart, top categories and spending anomalies
+* Transactions with search, filters, CSV export and AI category suggestions
+* Monthly budgets per category and savings goals with progress bars
+* Subscriptions and fixed costs with monthly billing runs
+* Savings history by month with savings rate
+* AI Finance coach and Eat tips that can be saved for later
+
+Tech: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, shadcn/ui, Prisma with PostgreSQL, Redis, NextAuth v5, Recharts, OpenRouter
+
+Developed: 2026-05-17

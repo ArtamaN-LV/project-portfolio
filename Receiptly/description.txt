@@ -1,0 +1,15 @@
+Receiptly
+
+A web app for generating receipts as PDF files from templates. Users log in with a license key, fill in a form for a chosen product template and get a PDF, which can also be sent by email. License keys give time limited access plans and are bought with card payments through Stripe or with crypto through NOWPayments. An admin panel manages templates, fonts, products, users, license keys and generated receipts.
+
+Features:
+* PDF generation from HTML and SVG templates with custom fonts
+* License key login with time limited plans and a daily generation limit
+* Card and crypto payments for buying keys
+* Admin panel for products, categories, users, keys, SMTP accounts, template and font files, backups and stats
+* Live support chat between users and admins
+* Affiliate and referral tracking
+
+Tech: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, Redis, BullMQ, Socket.IO, PDFKit, Puppeteer, Stripe
+
+Developed: 2025-08-28

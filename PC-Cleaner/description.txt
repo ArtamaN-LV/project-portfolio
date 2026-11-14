@@ -1,0 +1,16 @@
+PC Cleaner Pro
+Desktop app (Windows)
+
+A Windows maintenance tool that frees up space, cleans caches and manages the system from one window. The dashboard shows live CPU, RAM and disk use and runs an internet speed test. The cleaner removes temporary files, browser and app caches, the recycle bin and more, and the tools tab finds large and duplicate files. An app manager lists installed Windows apps and can uninstall them.
+
+Features:
+* Dashboard with live system health and an internet speed test
+* One click cleanup of temp files, DNS, browser, app, GPU and system caches
+* Large file finder and duplicate file finder
+* Clear clipboard and restart Explorer
+* App manager that lists and uninstalls installed Windows apps
+* Dark themed tabbed interface
+
+Tech: Python, CustomTkinter, psutil
+
+Developed: 2026-02-09

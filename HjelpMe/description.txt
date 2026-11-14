@@ -1,0 +1,14 @@
+HjelpMe
+https://hjelpme.com
+
+A local services marketplace for Norway. People post small jobs they need help with, and others nearby can find them and apply. Each task shows the budget in NOK with an estimate in EUR, the location, date and difficulty.
+
+Features:
+* Task feed with filters by category, difficulty, distance and remote or on site
+* 16 categories, from cleaning and moving to IT and snow removal
+* Task page with budget, address, map, photos and payment options
+* Accounts with profile, chat and notifications
+* Light and dark theme
+* Responsive layout with a bottom tab bar on mobile
+
+Tech: Next.js, React

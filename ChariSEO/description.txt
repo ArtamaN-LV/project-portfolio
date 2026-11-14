@@ -1,0 +1,15 @@
+ChariSEO
+
+A landing page for an SEO promotion service that improves website rankings using behavioral factors. It explains the problem with regular SEO, what the service offers, how its technology differs from typical tools, and how to start in three steps. It ends with pricing plans and a call to start a trial.
+
+Features:
+* Hero with headline and call to action
+* Methodology block with a visibility chart
+* Comparison of common tools versus the service's own technology
+* Three step launch process
+* Pricing table with three plans
+* Footer with product, company and contact links
+
+Tech: React 19, TypeScript, Vite, Bootstrap 5, React Bootstrap, Sass, Framer Motion
+
+Developed: 2026-02-08

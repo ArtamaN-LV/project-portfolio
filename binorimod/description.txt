@@ -1,0 +1,16 @@
+Binorimod
+https://binorimod.com
+
+An online store for original and modified ECU files for cars. Visitors find a file by make, model and engine, or by hardware and software number, and buy it with PayPal. The download starts right after payment and the link is also sent by email.
+
+Features:
+* File database with search by vehicle or by HW and SW number
+* File page with full ECU details, checksum and QR code
+* Checkout with PayPal, VAT and promo codes
+* Customer accounts with purchased files and two factor login
+* Admin panel for files, vehicles, ECU types, orders, users, promo codes, blocked buyers, CSV import, pages, blog, settings and audit log
+* English, Russian and Latvian
+
+Tech: Next.js, React
+
+Developed: 2026-08-17

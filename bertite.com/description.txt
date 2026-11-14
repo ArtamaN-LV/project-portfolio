@@ -1,0 +1,15 @@
+Bertite
+
+Bertite is the website of a small digital studio that builds websites, online stores, and automation for clients. The public site presents the studio, its working process, its services with pricing, and a portfolio of finished projects. Each project has its own detail page with an image, the industry, and a short write up. A private admin panel lets the owner manage the portfolio, upload images, and watch basic visit statistics.
+
+Features:
+* Public pages for home, services and pricing, portfolio list, and per project detail pages
+* Contact form that sends an email to the studio, plus a short FAQ section
+* Content in seven languages (English, Latvian, Russian, French, German, Italian, Spanish)
+* Admin login with a dashboard that lists projects and shows visit analytics
+* Create and edit project forms with multilingual descriptions and desktop and mobile images
+* Media library to upload and reuse portfolio images
+
+Tech: Next.js 14 and React with TypeScript, Tailwind CSS and Radix UI, i18next, Express backend, MariaDB with mysql2, JWT auth, multer uploads with local or MinIO storage, nodemailer for contact emails.
+
+Developed: 2025-07-01

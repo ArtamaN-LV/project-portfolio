@@ -1,0 +1,12 @@
+Streetkey
+
+An early project skeleton for a web app with a React dashboard frontend and a Python API backend. So far it has a basic layout with a header, a dashboard page and a footer, plus a FastAPI backend prepared for a PostgreSQL database.
+
+Features:
+* Dashboard layout with header, content area and footer
+* Feature based routing structure ready for new sections
+* FastAPI backend with versioned API routes and database session setup
+
+Tech: React 19, TypeScript, Vite, React Router, Bootstrap, FastAPI, SQLAlchemy, PostgreSQL, Alembic
+
+Developed: 2026-02-09

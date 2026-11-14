@@ -1,0 +1,16 @@
+GuardPass
+Desktop app (Windows)
+
+A corporate password manager for the desktop. Credentials are encrypted and kept in a local vault that syncs with a central server, so a team shares one source of truth. Users sign in to unlock their vault; admins manage people, categories and audit logs, and users can send requests for credential changes.
+
+Features:
+* Encrypted vault with accounts by site, username, category and notes
+* Password generator with a strength meter and a breach scan (k-anonymity)
+* Admin panel: user management, categories, audit logs and request handling
+* Import and export to CSV, JSON and Excel
+* English, Latvian and Russian, light and dark theme
+* Flask server with a SQLite database
+
+Tech: Python, PyQt6, QFluentWidgets, Flask, SQLite
+
+Developed: 2026-02-09

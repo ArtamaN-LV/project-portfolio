@@ -1,0 +1,18 @@
+Scroll Tax
+https://scrolltax.ai
+https://apps.apple.com/us/app/scroll-tax-read-for-scroll/id6790145622
+https://play.google.com/store/apps/details?id=com.scrolltax.app
+
+A mobile app that makes you earn your scrolling time. You choose apps to block, like Instagram or Facebook, and they stay locked until you read. Every second spent reading short ideas from books and articles adds a second to your screen time wallet, and opening a blocked app spends it.
+
+Features:
+* Onboarding with interests, first reads and ready made focus blocks
+* App blocking by schedule, by day or all day, with a full screen block page
+* Library of books and articles split into short ideas that unlock step by step
+* Screen time wallet: one second read equals one second of app time
+* Home screen with time saved, blocks count, leaderboard place and saved ideas
+* Google and Apple sign in, subscriptions, notifications, works offline
+
+Tech: Flutter (Android and iOS), FastAPI, MySQL, Prisma, Next.js landing page
+
+Developed: 2026-05-23

@@ -1,0 +1,15 @@
+ScaleFindy (Business Finder v2.0)
+
+A web app for finding business leads. You search for businesses by category and country through the Google Places API, save them as leads and work with them in a built in CRM. Users can bring their own Google API key or buy credits, and there is a paid Pro plan through Stripe. The shots here cover the public pages, the full user dashboard and the admin panel.
+
+Features:
+* Business search by keyword and country with filters by rating, reviews and status
+* Lead CRM with pipeline statuses, notes, follow up tasks and custom lead lists
+* Outreach email templates with placeholders and saved search templates
+* Search history, analytics and CSV or JSON export
+* Team workspaces with shared leads and tasks
+* Admin panel with user management and error logs
+
+Tech: Next.js 15 (App Router, Server Actions), React 19, TypeScript, Tailwind CSS, shadcn/ui, Prisma with PostgreSQL, Auth.js v5 and Firebase Auth, Redis, Stripe, Google Places API
+
+Developed: 2026-01-07

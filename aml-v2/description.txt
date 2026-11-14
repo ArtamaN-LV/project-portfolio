@@ -1,0 +1,17 @@
+Ankete (AML Platform v2)
+
+This is the second version of the project and it is currently in development, a work in progress that is still being built.
+
+Ankete is a multi tenant SaaS platform for AML and KYC compliance, aimed at the Latvian market. One installation serves many customer firms, and each firm signs in to its own panel with a login and password. People and companies that need to be checked fill in a questionnaire through a public link, automated and browser based checks run against sanctions lists, politically exposed person data, adverse media and state registers, and the panel shows the results, the risk score and the Latvian regulatory forms. The platform also has a separate admin realm where the platform owner manages tenants and plans.
+
+Features:
+* Public questionnaire links for natural persons and legal entities, in Latvian, Russian and English
+* Automated and browser based checks: sanctions, PEP, adverse media, VID, insolvency and enterprise registers
+* Risk scoring with configurable factors and thresholds, plus an advisory AI summary
+* Generation of the Latvian regulatory DOCX forms: 1.9 identification, 1.10 risk assessment, 1.11 enhanced due diligence
+* Applicant profiles, document storage, review workflow, personal task board and full audit log
+* Platform admin realm for managing tenant firms, plans, job queues and maintenance
+
+Tech: React 19, Vite, TypeScript, TanStack Router and Query, shadcn/ui and Tailwind v4, Fastify 5, Kysely, PostgreSQL 16 with row level security, Redis, MinIO object storage, a Python 3.14 FastAPI worker service, and Docker.
+
+Developed: 2026-11-05
